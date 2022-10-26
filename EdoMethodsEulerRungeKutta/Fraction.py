@@ -59,7 +59,7 @@ class Fraction:
             self.denominator = 1
             return True
 
-        primes = [2,3,5,7,9]
+        primes = [2,3,5,7,11]
 
         reduced = False
 
